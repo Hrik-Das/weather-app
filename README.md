@@ -27,7 +27,7 @@ The Weather App provides real-time weather information for a given location. Use
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Hrik-Das/weather-app.git
+git clone https://github.com/hrik-das/weather-app.git
 ```
 2. Get an API key from OpenWeatherMap (or your preferred weather API provider) and replace YOUR_API_KEY in the script.js file.
 
